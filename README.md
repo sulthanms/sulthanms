@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Sulthan Muhammad Shalahuddin**.<br>
 
-Saya seorang **Mahasiswa Jurusan Manajemen Aset Publik** di [Politeknik Keuangan Negara STAN]((https://pknstan.ac.id/).<br>
+Saya seorang **Mahasiswa Jurusan Manajemen Aset Publik** di [Politeknik Keuangan Negara STAN](https://pknstan.ac.id/).<br>
 
 Saya mempelajari berbagai disiplin ilmu seperti akuntansi, ekonomi, manajemen keuangan, dan manajemen aset.<br>
 
